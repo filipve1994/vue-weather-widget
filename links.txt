@@ -1,0 +1,16 @@
+- https://www.google.com/search?q=openweathermap+vue+js&rlz=1C1GCEU_en&oq=vuejs+openweather&aqs=chrome.1.69i57j0i22i30j69i61j69i65.6381j0j7&sourceid=chrome&ie=UTF-8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
